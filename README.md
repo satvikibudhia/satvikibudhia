@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi! Its me, Satviki Budhia</h1>
+[<h1 align="center">👋Hi! Its me, Satviki Budhia</h1>
 
 ###
 
@@ -86,3 +86,4 @@
 </div>
 
 ###
+](https://www.linkedin.com/in/satviki-budhia-932b5727b/)
