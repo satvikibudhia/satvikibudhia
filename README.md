@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hey! I'm Satviki Budhia, a driven MERN Stack Developer 🛠️ with a knack for creating engaging, user-focused web applications. I thrive on turning ideas into innovative solutions, blending intuitive frontend experiences with reliable backend logic.</p>
+<p align="left">Hey! I'm Satviki Budhia, a driven Developer 🛠️ with a knack for creating engaging, user-focused applications. I thrive on turning ideas into innovative solution.</p>
 
 ###
 
